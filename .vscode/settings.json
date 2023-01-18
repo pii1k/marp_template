@@ -2,5 +2,7 @@
   "markdown.marp.themes": [
     "https://example.com/foo/bar/custom-theme.css",
     "./themes/autocrypt.css"
-  ]
+    "./themes/academic.css"
+  ],
+  "markdown.marp.exportType": "html"
 }

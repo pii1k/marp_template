@@ -15,5 +15,8 @@
     "@marp-team/marp-cli": "^2.3.0",
     "ncp": "^2.0.0",
     "rimraf": "^4.0.4"
+  },
+  "dependencies": {
+    "@marp-team/marp-core": "^3.4.2"
   }
 }
